@@ -24,3 +24,12 @@ iva.laginja@oca.eu
   - run the installation
   - when you open the app for the first time it will prompt you to sign in - use your GitHub account for this, and 
   the email you used to create your GitHub account
+
+## Covered topics in this tutorial
+
+- navigate GitHub
+- navigate the git GUI "GitKraken"
+- clone a repository
+- make a new branch, stage and commit changes
+- merge branches and create pull requests
+- review pull requests
